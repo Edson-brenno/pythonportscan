@@ -1,5 +1,6 @@
 #AUTHOR: Edson Brenno
 #DATA: 02/20/2021
+#contact: bytegold64@gmail.com
 #Descripition: Portscan
 
 #!/usr/bin/python3.9
